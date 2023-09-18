@@ -3,7 +3,7 @@
 Hello! I'm a professional programmer & designer, as well as a network administrator. I specialize in many frameworks and projects and my skill level is high.
 
 
-```
+```cpp
 class MyInfo {
   private:
     array Info {
